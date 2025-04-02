@@ -1,2 +1,2 @@
 # Soundtag
-Use this link to make a nfc tag a aoundtag
+Use this link to make a nfc tag a soundtag
