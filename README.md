@@ -21,6 +21,8 @@ and copy the link of a sound you like (ofcourse you need to write it on the nfc 
 
 C) This is the hardest way but imo the funniest because you can put any sound you like.
 So first go to https://inname3.github.io/index.html
+
+![image alt](https://raw.githubusercontent.com/Babaciunea/Soundtag/refs/heads/main/Screenshot_20250403_231755_Chrome.jpg)
 after that choose an image and an audio file and you should get the .html file and download it.
 This is the hardest step. Go to GitHub.com and create a repositorie at https://github.com
 ( If You can't manage to do that go to https://youtu.be/-RZ03WHqkaY that should explain it)
