@@ -7,7 +7,7 @@ SOUNDTAG TUTORIAL
 A)So there are multiple ways to do this but the easiest one is just find a site like: 
 
 sndtag.ru/m
-snttag.ru/s
+sndtag.ru/s
 sndtag.ru/t
 
 these are all the sites I know
