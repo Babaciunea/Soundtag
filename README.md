@@ -1,5 +1,5 @@
 SOUNDTAG TUTORIAL
-![image alt](image_url)
+![image alt](https://raw.githubusercontent.com/Babaciunea/Soundtag/refs/heads/main/Screenshot_20250403_230754_TikTok.jpg)
 #1 get an nfc tag, obviously.
 #2 install nfc tools( is on both android and iOS)
 #3 get a link to write on the soundtag(tricky part)
