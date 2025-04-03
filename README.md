@@ -33,7 +33,7 @@ click on the .html file ,settings ,pages and select main branch and hit save. If
 
 If you made it this far into the steps then I guess I don't need to explain how to write it on the nfc tag.
 
-D) The original one that I used but isn't worth using it is just putting the audio file in an Google drive account and copying the link, then of course writing it on the nfc tag.
+4) The original one that I used but isn't worth using it is just putting the audio file in an Google drive account and copying the link, then of course writing it on the nfc tag.
 
 
 
